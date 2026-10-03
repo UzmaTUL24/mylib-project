@@ -1,0 +1,16 @@
+{
+  "name": "mylib-project",
+  "version": "1.0.0",
+  "description": "A simple JavaScript arithmetic library with Mocha and Chai unit tests.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^6.3.0",
+    "mocha": "^12.0.3"
+  }
+}
